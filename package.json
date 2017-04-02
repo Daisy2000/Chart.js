@@ -16,6 +16,7 @@
     "child-process-promise": "^2.2.0",
     "coveralls": "^2.11.6",
     "gitbook-cli": "^2.3.0",
+    "gitbook-plugin-chartjs": "^0.1.0",
     "gulp": "3.9.x",
     "gulp-concat": "~2.1.x",
     "gulp-connect": "~2.0.5",
